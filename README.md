@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kubusin
-- 👀 I’m interested in create awesome app
-- 🌱 I’m currently building kubus internal system
-- 💞️ I love to write beatiful code
-- 📫 How to reach me > developer@kubus.in
+- 👋 Hi, We are KUBUS
+- 👀 We're interested in create awesome app
+- 🌱 We're currently building kubus internal system
+- 💞️ We're love to write beatiful code
+- 📫 How to reach us > developer@kubus.in
 
 <!---
 We are packaging happiness :)
